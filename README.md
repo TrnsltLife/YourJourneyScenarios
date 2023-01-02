@@ -1,5 +1,5 @@
 # YourJourneyScenarios
-Scenarios for Your Journey game app
+Scenarios for [Your Journey](https://github.com/TrnsltLife/your-journey) game app
 
 ## Windows users
 Scenarios need to be stored in your Documents/YourJourney folder (which should be created automatically the first time you run the game).
