@@ -5,7 +5,7 @@ Scenarios for [Your Journey](https://github.com/TrnsltLife/your-journey) game ap
 Scenarios need to be stored in your Documents/YourJourney folder (which should be created automatically the first time you run the game).
 
 ## Mac users
-Scenarios need to be stored in your /Users/<your-user-name>/Your Journey folder (which should be created automatically the first time you run the game).
+Scenarios need to be stored in your /Users/(your-user-name)/Your Journey folder (which should be created automatically the first time you run the game).
 
 ## Downloading and Installing
 You can download a Standalone scenario by following these steps:
