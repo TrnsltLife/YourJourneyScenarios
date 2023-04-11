@@ -1,6 +1,6 @@
 ![](https://c10.patreonusercontent.com/4/patreon-media/p/campaign/10351808/14902c8d307c42f9892d1a8a0e57000a/eyJ3IjoxMjAwLCJ3ZSI6MX0%3D/2.png?token-time=1683158400&token-hash=6WVShSh7WB-b9BMXvRvQIsZw282ZHPXQ7ZtR3KylWHU%3D)
 
-# [Your Journey Patreon](http://www.patreon.com/YourJourneyRPG)
+## [Your Journey Patreon](http://www.patreon.com/YourJourneyRPG)
 
 # YourJourneyScenarios
 Scenarios for [Your Journey](https://github.com/TrnsltLife/your-journey) game app
