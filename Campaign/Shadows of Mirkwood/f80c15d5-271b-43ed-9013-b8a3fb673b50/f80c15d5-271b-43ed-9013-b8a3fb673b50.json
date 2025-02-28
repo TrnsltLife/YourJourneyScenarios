@@ -1,0 +1,123 @@
+{
+  "campaignGUID": "f80c15d5-271b-43ed-9013-b8a3fb673b50",
+  "campaignName": "Shadows of Mirkwood",
+  "campaignVersion": null,
+  "fileVersion": "1.35",
+  "coverImage": null,
+  "storyText": "",
+  "description": "",
+  "startWithTrinkets": false,
+  "startWithMounts": false,
+  "scenarioCollection": [
+    {
+      "scenarioName": "The Hunt for Gollum",
+      "fileName": "The Hunt for Gollum.jime"
+    },
+    {
+      "scenarioName": "Konflikt am Carrock",
+      "fileName": "Konflik am Carrock.jime"
+    },
+    {
+      "scenarioName": "Reise nach Rhosgobel",
+      "fileName": "A Journey to Rhosgobel.jime"
+    },
+    {
+      "scenarioName": "Die Berge von Emyn Muil",
+      "fileName": "Die Berge von Wmyn Muil.jime"
+    },
+    {
+      "scenarioName": "Die Totensümpfe",
+      "fileName": "Die Totensümpfe.jime"
+    },
+    {
+      "scenarioName": "Die Rückkehr zum Düsterwald",
+      "fileName": "Die Rückkehr zum Düsterwald.jime"
+    },
+    {
+      "scenarioName": "Weg durch den Düsterwald",
+      "fileName": "Weg durch den Düsterwald.jime"
+    },
+    {
+      "scenarioName": "Die Reise durch den Anduin",
+      "fileName": "Die Reise durch den Anduin.jime"
+    },
+    {
+      "scenarioName": "Flucht aus Dol Guldur",
+      "fileName": "Flucht aus Dol Guldur.jime"
+    }
+  ],
+  "triggerCollection": [
+    {
+      "dataName": "elp ohne Sattel [CMPN]",
+      "GUID": "68ad02c2-c7d6-4773-9fd5-c8b98039e4c2",
+      "isEmpty": false,
+      "triggerValue": false,
+      "triggerName": null,
+      "isMultiTrigger": true,
+      "isCampaignTrigger": true
+    },
+    {
+      "dataName": "Steintafel [CMPN]",
+      "GUID": "7a06ec79-8f6a-46c8-b32d-7f2050eda0e6",
+      "isEmpty": false,
+      "triggerValue": false,
+      "triggerName": null,
+      "isMultiTrigger": true,
+      "isCampaignTrigger": true
+    },
+    {
+      "dataName": "Fassreiter [CMPN]",
+      "GUID": "e0ec19bb-f9b0-4971-a169-e769a555eaf2",
+      "isEmpty": false,
+      "triggerValue": false,
+      "triggerName": null,
+      "isMultiTrigger": true,
+      "isCampaignTrigger": true
+    },
+    {
+      "dataName": "Adler 1 [CMPN]",
+      "GUID": "d9b6e17a-2b33-41fb-992e-322282ac85ff",
+      "isEmpty": false,
+      "triggerValue": false,
+      "triggerName": null,
+      "isMultiTrigger": true,
+      "isCampaignTrigger": true
+    },
+    {
+      "dataName": "Adler 2 [CMPN]",
+      "GUID": "7e26de6b-b3e0-4652-8360-866253951ae2",
+      "isEmpty": false,
+      "triggerValue": false,
+      "triggerName": null,
+      "isMultiTrigger": true,
+      "isCampaignTrigger": true
+    },
+    {
+      "dataName": "Brieffreund [CMPN]",
+      "GUID": "7ad1d356-5b8b-48aa-961e-8d592b3261ae",
+      "isEmpty": false,
+      "triggerValue": false,
+      "triggerName": null,
+      "isMultiTrigger": true,
+      "isCampaignTrigger": true
+    },
+    {
+      "dataName": "Brieffreund 2 [CMPN]",
+      "GUID": "3bb6d594-6580-4e93-b8dc-127ced81e268",
+      "isEmpty": false,
+      "triggerValue": false,
+      "triggerName": null,
+      "isMultiTrigger": true,
+      "isCampaignTrigger": true
+    },
+    {
+      "dataName": "Adler 3 [CMPN]",
+      "GUID": "2ce63716-2d12-44ae-808c-352bc3cba677",
+      "isEmpty": false,
+      "triggerValue": false,
+      "triggerName": null,
+      "isMultiTrigger": true,
+      "isCampaignTrigger": true
+    }
+  ]
+}
